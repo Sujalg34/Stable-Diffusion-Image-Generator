@@ -29,7 +29,7 @@ project/
 ### 1️⃣ Clone the repository
 ```
 git clone https://github.com/Sujalg34/Stable-Diffusion-Image-Generator
-cd stable-diffusion-fastapi
+cd Stable-Diffusion-Image-Generator
 ```
 
 ### 2️⃣ Install dependencies
